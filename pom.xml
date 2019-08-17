@@ -233,7 +233,7 @@
                     <!-- MainClass in Manifest make a executable jar -->
                     <archive>
                         <manifest>
-                            <mainClass>com.kroger.com.Db2tohdfsapp</mainClass>
+                            <mainClass>com.hemanth.com.Db2tohdfsapp</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
