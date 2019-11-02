@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <hdp.version>2.7.3.2.6.3.0-235</hdp.version>
-        <spark.core.version>2.3.0</spark.core.version> <!--Get it from the spark-shell (version 2.2.0.2.6.3.0-235)-->
+        <spark.core.version>2.4.4</spark.core.version> <!--Get it from the spark-shell (version 2.2.0.2.6.3.0-235)-->
         <maven.version>3.5.4</maven.version>
         <!--Use the jdk only when you want to compile against the cluster jdk -->
         <jdk.version>1.8</jdk.version>
